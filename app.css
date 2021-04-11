@@ -1,5 +1,5 @@
 body {
-    background-color: orangered;
+    background-color: #152642;
     color: white;
     margin: 0;
     font-family: rubik;
@@ -26,7 +26,8 @@ h1 {
 .card {
     list-style: none;
     padding: 40px;
-    background-color: #f4f4f4;
+    background: rgb(195,101,101);
+    background: linear-gradient(90deg, rgba(195,101,101,1) 0%, rgba(207,159,159,1) 46%, rgba(171,150,188,1) 96%);
     color: #222;
   text-align: center;
 }
